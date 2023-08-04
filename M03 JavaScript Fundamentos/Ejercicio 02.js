@@ -10,7 +10,8 @@ function devolverString(string) {
 
 function suma(x, y) {
    // Retorna el resultado de su suma.
-   // Tu código:
+   var sum = x + y
+return sum
 }
 
 function resta(x, y) {
